@@ -124,7 +124,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/headline"
                 >
-   
+
               <RatingBar
                   android:id="@+id/rating_bar"
                   android:background="@android:color/transparent"
